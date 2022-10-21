@@ -19,9 +19,9 @@
 - [X] Aula 22: Desafio prático - Solução
 - [X] Aula 23: Input: Entrada de dados do usuário
 - [X] Aula 24: IF, ELIF e ELSE + Booleans
-- [X] Aula 25: Operadores relacionais + IF/ELIF/ELSE
-- [X] Aula 26: Operadores lógicos + IF/ELIF/ELSE
-- [X] Aula 27: len - Quantidade de caracteres
+- [ ] Aula 25: Operadores relacionais + IF/ELIF/ELSE
+- [ ] Aula 26: Operadores lógicos + IF/ELIF/ELSE
+- [ ] Aula 27: len - Quantidade de caracteres
 - [ ] Aula 28: Documentação e funções built-in úteis
 - [ ] Aula 29: Pass e Ellipsis como placeholders
 - [ ] Aula 30: Exercícios propostos
