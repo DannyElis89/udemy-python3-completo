@@ -12,6 +12,7 @@
 * Aula 16: Operadores Aritméticos
 * Aula 17: Precedência dos Operadores Aritméticos
 * Aula 18: Variáveis
+* Desafio Prático 01
 * Aula 19: Solução do exercício com variáveis
 * Aula 20: Introdução à formatação de Strings
 * Aula 21: Desafio prático (teste seu conhecimento até aqui)
