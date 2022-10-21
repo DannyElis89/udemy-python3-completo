@@ -6,8 +6,6 @@
 * Aula 10: Me ajude a produzir conteúdo gratuito
 * Aula 11: Avisos e dicas do curso
 * Aula 12: Comentários de código em Python
-* Aula Teste 1: Perguntas
-* Aula Teste 2: Perguntas
 * Aula 13: O comando print
 * Aula 14: Strings (texto) e aspas em Python
 * Aula 15: Tipos de dados "primitivos"
@@ -15,18 +13,13 @@
 * Aula 17: Precedência dos Operadores Aritméticos
 * Aula 18: Variáveis
 * Aula 19: Solução do exercício com variáveis
-* Aula Teste 3: Perguntas
 * Aula 20: Introdução à formatação de Strings
 * Aula 21: Desafio prático (teste seu conhecimento até aqui)
 * Aula 22: Desafio prático - Solução
-* Aula Teste 4: Perguntas
 * Aula 23: Input: Entrada de dados do usuário
-* Aula Teste 5: Perguntas
 * Aula 24: IF, ELIF e ELSE + Booleans
 * Aula 25: Operadores relacionais + IF/ELIF/ELSE
-* Aula Teste 6: Perguntas
 * Aula 26: Operadores lógicos + IF/ELIF/ELSE
-* Aula Teste 7: Perguntas
 * Aula 27: len - Quantidade de caracteres
 * Aula 28: Documentação e funções built-in úteis
 * Aula 29: Pass e Ellipsis como placeholders
