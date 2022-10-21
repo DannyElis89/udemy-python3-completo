@@ -22,4 +22,3 @@ print('{} tem {} anos, pesa {:.3f} Kg e tem {:.2f} m de altura. '
 print(f'{nome} tem {idade} anos, pesa {peso:.3f} Kg e tem {altura:.2f} m de altura. '
       f'Nasceu em {ano_nascimento} '
       f'e seu imc é {imc:.2f}')
-
