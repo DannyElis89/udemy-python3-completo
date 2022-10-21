@@ -1,5 +1,5 @@
 """
-Tipos de dados em Python:
+Tipos de dados primitivos em Python:
 str - strings
 int - inteiros
 float - real/ ponto flutuante
