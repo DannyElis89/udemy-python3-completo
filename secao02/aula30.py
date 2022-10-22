@@ -1,7 +1,8 @@
 """
 Faça um programa que peça ao usuário para digitar um número inteiro,
-informe se este número é par ou ímpar.
-Caso o usuário não digite um número inteiro, informe que não é um número inteiro.
+    informe se este número é par ou ímpar.
+    Caso o usuário não digite um número inteiro,
+    informe que não é um número inteiro.
 """
 
 number = input('Por favor, digite um número inteiro: ')
@@ -10,7 +11,7 @@ if not (number.isnumeric()):
     print('O valor inserido não é um número.')
 elif '.' in number:
     print('O número digitado não é um número inteiro.')
-elif int(number) % 2 == 0 and number.isnumeric():
+elif int(number) % 2 == 0:
     print('O número digitado é par.')
 else:
     print('O número digitado é ímpar.')
@@ -18,8 +19,9 @@ else:
 
 
 """
-Faça um programa que pergunte a hora ao usuário e, baseando-se no horário descrito,
-exiba a saudação apropriada.
+Faça um programa que pergunte a hora ao usuário e, 
+    baseando-se no horário descrito, 
+    exiba a saudação apropriada.
 """
 hora = input('Por favor, insira a hora atual: ')
 
